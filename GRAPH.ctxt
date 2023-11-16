@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GRAPH
+comment1.params=maxKnoten
+comment1.target=GRAPH(int)
+comment2.params=startknoten
+comment2.target=void\ breitendurchauf(java.lang.String)
+comment3.params=von\ nach\ gewicht\ ungerichtet
+comment3.target=boolean\ erstelleKante(java.lang.String,\ java.lang.String,\ int,\ boolean)
+comment4.params=stadt
+comment4.target=boolean\ erstelleKnoten(STADT)
+comment5.params=stadtname
+comment5.target=int\ nenneIndexVon(java.lang.String)
+comment6.params=
+comment6.target=void\ matrixAusgeben()
+comment7.params=
+comment7.target=void\ matrixAusgebensch\u00F6n()
+numComments=8
