@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=STADT
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ STADT.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=name
+comment1.target=STADT(java.lang.String)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ STADT\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Getter-Methode\ der\ Klasse\ STADT\r\n
+numComments=3

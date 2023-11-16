@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=GRAPH
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ GRAPH.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=maxKnoten
+comment1.target=GRAPH(int)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ GRAPH\r\n
+comment2.params=startknoten
+comment2.target=void\ breitendurchlauf(java.lang.String)
+comment3.params=von\ nach\ gewicht\ ungerichtet
+comment3.target=boolean\ erstelleKante(java.lang.String,\ java.lang.String,\ int,\ boolean)
+comment4.params=s
+comment4.target=boolean\ erstelleKnoten(STADT)
+comment4.text=\r\n\ Man\ f\u00FCgt\ im\ knoten-Array\ an\ die\ letzte\ freie\ Stelle\ eine\ neue\ Stadt\ ein.\r\n\ Die\ Methode\ liefert\ true,\ falls\ das\ Einf\u00FCgen\ funktioniert\ hat\ und\ false,\ falls\r\n\ das\ knoten-Array\ bereits\ voll\ ist.\r\n
+comment5.params=stadtname
+comment5.target=int\ nenneIndexVon(java.lang.String)
+comment5.text=\r\n\ Durchsucht\ das\ Array\ knoten\ nach\ dem\ Stadtnamen\ stadtnamen\ und\ gibt\ den\ Index\r\n\ im\ Array\ zur\u00FCck.\r\n\ Falls\ die\ Stadt\ im\ Array\ nicht\ existiert,\ dann\ gibt\ -1\ zur\u00FCck;\r\n
+comment6.params=
+comment6.target=void\ matrixAusgeben()
+comment6.text=\r\n\ Methode\ zur\ Ausgabe\ der\ Adjazenzmatrix\r\n
+numComments=7

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=KNOTEN
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ KNOTEN.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=s
+comment1.target=KNOTEN(STADT)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ KNOTEN\r\n
+comment2.params=
+comment2.target=STADT\ getStadt()
+comment3.params=s
+comment3.target=void\ setStadt(STADT)
+comment4.params=
+comment4.target=boolean\ getBesucht()
+comment5.params=b
+comment5.target=void\ setBesucht(boolean)
+numComments=6

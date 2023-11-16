@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=WARTESCHLANGE
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ KUNDENWARTESCHLANGE.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=l\u00E4nge
+comment1.target=WARTESCHLANGE(int)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ KUNDENWARTESCHLANGE\r\n
+comment2.params=k
+comment2.target=boolean\ hintenEinreihen(KNOTEN)
+comment2.text=\r\n\ Reiht\ neue\ Kunden\ in\ die\ Warteschlange\ ein.\r\n\ @return\:\ True,\ falls\ der\ Kunde\ eingereiht\ werden\ konnte\r\n\ \ \ \ \ \ \ \ \ \ False,\ falls\ der\ Kunde\ nicht\ eingereiht\ werden\ konnte\r\n
+comment3.params=
+comment3.target=boolean\ istLeer()
+comment4.params=
+comment4.target=boolean\ istVoll()
+comment5.params=
+comment5.target=int\ nenneAnzahl()
+comment6.params=
+comment6.target=KNOTEN\ vorneEntnehmen()
+numComments=7
