@@ -12,21 +12,11 @@ public class WARTESCHLANGE
     }
     
     public boolean istLeer(){
-        if(anzahl==0){
-            return true;
-        }
-        else{
-            return false;
-        }
+        return anzahl==0;
     }
     
     public boolean istVoll(){
-        if(anzahl<maxAnzahl){
-            return true;
-        }
-        else{
-            return false;
-        }
+        return anzahl==maxAnzahl;
     }
     
     public int nanneAnzahl(){
